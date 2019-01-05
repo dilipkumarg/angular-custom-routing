@@ -5,7 +5,7 @@ import {Injectable} from '@angular/core';
 })
 export class ModulePickerService {
 
-  private module = SelectedModule.M2;
+  private module = SelectedModule.M1;
 
   constructor() {
   }
